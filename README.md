@@ -3,5 +3,5 @@ Dopamine est un projet élaboré par un débutant, offrant aux utilisateurs la p
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/dopyyy/count.svg)https://profile-counter.glitch.me/dopyyy/count.svg" />
+  <img src="https://profile-counter.glitch.me/dopyyy/count.svg" />
 </p>
